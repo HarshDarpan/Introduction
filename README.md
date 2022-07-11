@@ -1,2 +1,2 @@
-# Introduction
-Hi, I am Harshada 
+# Pandas Project
+Exploring Hotel Booking Data using Pandas. 
